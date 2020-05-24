@@ -10,4 +10,4 @@ No matching distribution found for audio-metadata
 
 #Install from local package
 
-pip install ./audio-metadata-0.11.1.tar.gz
+pip3 install ./audio-metadata-0.11.1.tar.gz
