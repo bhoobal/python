@@ -14,4 +14,4 @@ pip3 install ./audio-metadata-0.11.1.tar.gz
 
 ## Problem Solvingprogrames
 
-![Shopping list problem] (./shopping list.jpg)
+![Shopping list problem] (./shopping_list.jpg)
