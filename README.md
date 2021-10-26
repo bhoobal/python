@@ -12,7 +12,7 @@ No matching distribution found for audio-metadata
 
 pip3 install ./audio-metadata-0.11.1.tar.gz
 
-## Problem Solvingprogrames
+## Problem Solving
 
-![Shopping list problem] (shopping_list.jpg)
+![Shopping list problem](shopping_list.jpg)
 
