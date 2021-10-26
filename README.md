@@ -15,4 +15,5 @@ pip3 install ./audio-metadata-0.11.1.tar.gz
 ## Problem Solving
 
 ![Shopping list problem](./shopping_list.jpg)
+![Smallest Number](./smallest_number.jpg)
 
