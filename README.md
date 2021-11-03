@@ -16,3 +16,6 @@ pip3 install ./audio-metadata-0.11.1.tar.gz
 
 ![Shopping list problem](./shopping_list.jpg)![Smallest Number](./smallest_number.jpg)
 
+# EC2 instance tag list and filter
+## this one is using load json, filter based on tags, accessing dictionary objects
+![EC2 instance](./"python problem.png")
