@@ -1,0 +1,8 @@
+Inside es index ./dataset1
+Job - 2105 {'job_number': '2105', 'brand': 'CNE', 'revision': '226063', 'runtype': 'sandbox', 'category': 'frontend', 'job_name': 'fe.buildtest', 'file': '/home/jenkins/workspace/Frontend/fe-guibuild/test-results/TEST-com.corvil.audit.TestAudit.xml', 'name': 'com.corvil.audit.TestAudit', 'timestamp': 'timestamp ', 'classname': 'string ', 'testname': 'string ', 'duration': 'numeric ', 'skipped': 'boolean ', 'passed': 'boolean ', 'starttime': 'timestamp ', 'stdout': None, 'stderr': 'string ', 'id': 'string '}
+
+Job - 2904 {'job_number': '2904', 'brand': 'CMC', 'revision': '219656', 'runtype': 'sandbox', 'category': 'backend', 'job_name': 'cmc.tests', 'file': '/home/jenkins/workspace/Backend/CMC@3/test-results/TEST-cli-TestDecoderConfig.xml', 'name': 'cli.TestDecoderConfig', 'timestamp': 'timestamp ', 'classname': 'string ', 'testname': 'string ', 'duration': 'numeric ', 'skipped': 'boolean ', 'passed': 'boolean ', 'starttime': 'timestamp ', 'stdout': None, 'stderr': 'string ', 'id': 'string '}
+
+Job - 4489 {'job_number': '4489', 'brand': 'CMC', 'revision': '232517', 'runtype': 'sandbox', 'category': 'backend', 'job_name': 'cne.tests', 'file': '/home/jenkins/workspace/Backend/CNE/test-results/TEST-cli-TestDecoderConfig.xml', 'name': 'cli.TestDecoderConfig', 'timestamp': 'timestamp ', 'classname': 'string ', 'testname': 'string ', 'duration': 'numeric ', 'skipped': 'boolean ', 'passed': 'boolean ', 'starttime': 'timestamp ', 'stdout': None, 'stderr': 'string ', 'id': 'string ', 'runmode': 'CNE'}
+
+bhoobal@bplaptop:/mnt/c/temp/assignment$
