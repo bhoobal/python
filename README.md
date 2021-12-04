@@ -18,4 +18,4 @@ pip3 install ./audio-metadata-0.11.1.tar.gz
 
 # EC2 instance tag list and filter
 ## this one is using load json, filter based on tags, accessing dictionary objects
-![EC2 instance](./"python problem.png")
+![EC2 instance](./"python%20problem.png")
